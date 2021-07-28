@@ -1,0 +1,2 @@
+# cipher
+It is a morse code based communication device that enables deaf-blinds to communicate with their guardian over internet. Their Guardian will have a mobile app installed on their phone(I used a blynk app and customized it). The hardware for deaf blind is made on Node MCU and a metal shield(divided into 4 parts) to detect touches and create text message, vibrator motor that is used for vibration(convert text message into vibration)
